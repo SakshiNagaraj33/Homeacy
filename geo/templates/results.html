@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nearby Hospitals</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='leaflet.css') }}">
+    <script src="{{ url_for('static', filename='leaflet.js') }}"></script>
+    <style>
+        #map {
+            height: 500px;
+            width: 100%;
+        }
+    </style>
+    <script>
+        function initMap() {
+            var map = L.map('map').setView([{{ latitude }}, {{ longitude }}], 13);
+
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
+
+            var userMarker = L.marker([{{ latitude }}, {{ longitude }}]).addTo(map)
+                .bindPopup('Your Location')
+                .openPopup();
+
+            {% for place in places %}
+            var marker = L.marker([{{ place.lat }}, {{ place.lng }}]).addTo(map)
+                .bindPopup('{{ place.name }}');
+            {% endfor %}
+        }
+    </script>
+</head>
+<body onload="initMap()">
+    <h1>Nearby Hospitals</h1>
+    <div id="map"></div>
+</body>
+</html>
