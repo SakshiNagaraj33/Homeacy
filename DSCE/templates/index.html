@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block title %}Welcome{% endblock %}
+
+{% block content %}
+<div class="hero-section">
+    <div class="logo">
+        <img src="{{ url_for('static', filename='logo.jpg') }}" alt="Application Logo">
+    </div>
+    <h1>Welcome to Homeacy</h1>
+    <p>Please login or register to continue.</p>
+</div>
+{% endblock %}

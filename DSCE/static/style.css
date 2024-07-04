@@ -1,0 +1,103 @@
+/* Add your CSS styles here */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #a2dfd9; /* Pale green background color */
+    margin: 0;
+    padding: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    background-color: #333;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #111;
+}
+
+.container {
+    margin: 50px auto;
+    width: 300px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.hero-section {
+    text-align: center; /* Center align content */
+    padding: 50px 0; /* Add padding for spacing */
+}
+
+.logo {
+    margin-bottom: 20px; /* Spacing between logo and text */
+    width: 250px; /* Increased width of the logo */
+    display: inline-block; /* Make the logo inline-block to center it */
+}
+
+.logo img {
+    max-width: 100%; /* Ensure the logo scales within its container */
+    height: auto; /* Auto height for responsive scaling */
+    max-height: 150px; /* Adjust the maximum height of the logo */
+    transition: transform 0.3s ease-in-out; /* Smooth transition effect */
+}
+
+.logo img:hover {
+    transform: scale(1.1); /* Scale the logo on hover */
+    cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+h1 {
+    color: #6943a4; /* Purple text color */
+    font-size: 2em; /* Reduced font size */
+    margin-bottom: 10px; /* Adjust margin for spacing */
+}
+
+p {
+    color: #6943a4; /* Purple text color */
+    font-size: 1.2em; /* Reduced font size */
+    margin-bottom: 20px; /* Adjust margin for spacing */
+}
+
+form label {
+    display: block;
+    margin-bottom: 8px;
+    color: #555;
+}
+
+form input[type="email"],
+form input[type="password"],
+form input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+form input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+.flashes {
+    color: red;
+}
