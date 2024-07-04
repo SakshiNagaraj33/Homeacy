@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #4CAF50; /* Green background outside chat container */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.chat-container {
+    width: 400px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative; /* Ensure position relative for absolute positioning of background text */
+    margin-top: -50px; /* Adjust as needed */
+}
+
+#chat-box {
+    height: 300px;
+    padding: 20px;
+    overflow-y: auto;
+    border-bottom: 1px solid #ccc;
+}
+
+#messages {
+    display: flex;
+    flex-direction: column;
+}
+
+.user-message, .bot-response {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.user-message {
+    background-color: #d1e7dd;
+    align-self: flex-end;
+}
+
+.bot-response {
+    background-color: #f8d7da;
+    align-self: flex-start;
+}
+
+#chat-form {
+    display: flex;
+    padding: 10px;
+    border-top: 1px solid #ccc;
+}
+
+#user-input {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-right: 1px solid #ccc;
+    font-size: 16px;
+}
+
+#chat-form button {
+    padding: 10px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.bg-text {
+    position: absolute;
+    top: 50px; /* Adjust as needed */
+    left: 50%;
+    transform: translateX(-50%);
+    color: rgb(4, 44, 20);
+    font-size: 40px;
+    text-align: center;
+    z-index: 1; /* Ensure text is above chat content */
+}

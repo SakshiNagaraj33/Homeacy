@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emotional Assistant Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="chat-container">
+        <div id="chat-box">
+            <div id="messages"></div>
+        </div>
+        <form id="chat-form">
+            <input type="text" id="user-input" placeholder="Type a message..." required>
+            <button type="submit">Send</button>
+        </form>
+    </div>
+    <h1 class="bg-text">I'm Here For You</h1> <!-- Centered text above chatbot -->
+
+    <script>
+        $(document).ready(function() {
+            $('#chat-form').on('submit', function(e) {
+                e.preventDefault();
+                const userMessage = $('#user-input').val();
+                $('#messages').append('<div class="user-message">' + userMessage + '</div>');
+                $('#user-input').val('');
+
+                $.post('/chat', { message: userMessage }, function(data) {
+                    $('#messages').append('<div class="bot-response">' + data.response + '</div>');
+                });
+            });
+        });
+    </script>
+</body>
+</html>
