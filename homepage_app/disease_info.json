@@ -1,0 +1,1743 @@
+{
+  "abdominal_aortic_aneurysm": {
+    "home_remedies": [
+      "Maintain a healthy weight and avoid heavy lifting.",
+      "Quit smoking to reduce the risk of rupture.",
+      "Monitor blood pressure regularly."
+    ],
+    "ayurvedic_remedies": [
+      "Consume garlic daily to improve vascular health.",
+      "Practice yoga and pranayama for stress management.",
+      "Take Arjuna bark extract for cardiovascular support."
+    ]
+  },
+  "achilles_tendinopathy": {
+    "home_remedies": [
+      "Rest the affected tendon and apply ice packs.",
+      "Stretch and strengthen calf muscles gently.",
+      "Use supportive footwear and orthotics."
+    ],
+    "ayurvedic_remedies": [
+      "Apply warm sesame oil to the affected area.",
+      "Take Guggulu supplements to reduce inflammation.",
+      "Practice Vajrasana (thunderbolt pose) for healing."
+    ]
+  },
+  "acne": {
+    "home_remedies": [
+      "Wash face twice daily with mild soap and water.",
+      "Apply a honey and cinnamon mask to reduce inflammation.",
+      "Use aloe vera gel as a natural moisturizer."
+    ],
+    "ayurvedic_remedies": [
+      "Drink neem tea daily to purify blood.",
+      "Apply turmeric paste on pimples for antibacterial effects.",
+      "Use sandalwood paste as a cooling face pack."
+    ]
+  },
+  "acute_cholecystitis": {
+    "home_remedies": [
+      "Apply a heating pad to the abdomen to relieve pain.",
+      "Eat a low-fat diet to ease gallbladder workload.",
+      "Drink dandelion root tea to promote bile flow."
+    ],
+    "ayurvedic_remedies": [
+      "Take Triphala powder to support liver function.",
+      "Drink warm lemon water in the morning to detoxify.",
+      "Massage castor oil on the abdomen to reduce inflammation."
+    ]
+  },
+  "acute_lymphoblastic_leukaemia": {
+    "home_remedies": [
+      "Maintain a nutritious diet to support immune function.",
+      "Practice gentle exercises like yoga for overall well-being.",
+      "Stay hydrated with water and herbal teas."
+    ],
+    "ayurvedic_remedies": [
+      "Take Ashwagandha supplements for immune support.",
+      "Use Tulsi (holy basil) leaves in daily cooking for antioxidants.",
+      "Drink turmeric milk (golden milk) before bed for anti-inflammatory benefits."
+    ]
+  },
+  "acute_lymphoblastic_leukaemia_children": {
+    "home_remedies": [
+      "Create a comforting environment to reduce stress.",
+      "Encourage a balanced diet with plenty of fruits and vegetables.",
+      "Engage in activities that promote relaxation and joy."
+    ],
+    "ayurvedic_remedies": [
+      "Give Brahmi (Gotu Kola) herbal supplement for cognitive support.",
+      "Use Amla (Indian gooseberry) in diet for vitamin C and immunity.",
+      "Include ginger tea to alleviate nausea and support digestion."
+    ]
+  },
+  "acute_lymphoblastic_leukaemia_teenagers_young_adults": {
+    "home_remedies": [
+      "Encourage regular physical activity to maintain strength.",
+      "Provide emotional support and outlets for expressing feelings.",
+      "Ensure adequate sleep to support recovery and well-being."
+    ],
+    "ayurvedic_remedies": [
+      "Use Trikatu (combination of ginger, black pepper, and long pepper) for digestion.",
+      "Give Giloy (Tinospora cordifolia) for immune system support.",
+      "Include fresh bitter melon juice for blood sugar regulation."
+    ]
+  },
+  "acute_myeloid_leukaemia": {
+    "home_remedies": [
+      "Ensure good nutrition with protein-rich foods.",
+      "Practice gentle stretching exercises to maintain mobility.",
+      "Use relaxation techniques like deep breathing for stress relief."
+    ],
+    "ayurvedic_remedies": [
+      "Take Shatavari (Asparagus racemosus) for overall health and vitality.",
+      "Use Ashoka (Saraca asoca) bark extract for blood purification.",
+      "Include Manjistha (Rubia cordifolia) for detoxification and immunity."
+    ]
+  },
+  "acute_myeloid_leukaemia_children": {
+    "home_remedies": [
+      "Provide a calm and supportive home environment.",
+      "Encourage hobbies and activities to boost morale.",
+      "Ensure regular check-ins with healthcare providers."
+    ],
+    "ayurvedic_remedies": [
+      "Give Guduchi (Tinospora cordifolia) for immune support.",
+      "Include Amalaki (Indian gooseberry) for vitamin C and antioxidants.",
+      "Use Brahmi (Gotu Kola) for mental clarity and cognitive function."
+    ]
+  },
+  "acute_myeloid_leukaemia_teenagers_young_adults": {
+    "home_remedies": [
+      "Promote open communication and emotional support.",
+      "Encourage participation in support groups or peer networks.",
+      "Ensure a balanced diet and adequate hydration."
+    ],
+    "ayurvedic_remedies": [
+      "Use Haritaki (Terminalia chebula) for digestive health and detoxification.",
+      "Give Kutki (Picrorhiza kurroa) for liver function support.",
+      "Include Punarnava (Boerhavia diffusa) for kidney health and detoxification."
+    ]
+  },
+  "acute_pancreatitis": {
+    "home_remedies": [
+      "Avoid alcohol and fatty foods during recovery.",
+      "Apply a cold compress to the abdomen for pain relief.",
+      "Drink plenty of clear fluids to stay hydrated."
+    ],
+    "ayurvedic_remedies": [
+      "Take Kutki (Picrorhiza kurroa) for liver support and detoxification.",
+      "Use Licorice (Glycyrrhiza glabra) for soothing digestive tract inflammation.",
+      "Drink fresh Aloe Vera juice to support digestive healing."
+    ]
+  },
+  "addisons_disease": {
+    "home_remedies": [
+      "Monitor blood sugar levels regularly and eat balanced meals.",
+      "Stay hydrated and avoid excessive heat exposure.",
+      "Take medications as prescribed and attend regular check-ups."
+    ],
+    "ayurvedic_remedies": [
+      "Use Ashwagandha (Withania somnifera) for adrenal support and stress management.",
+      "Include Licorice (Glycyrrhiza glabra) for adrenal health and energy.",
+      "Practice yoga and meditation for overall well-being and cortisol regulation."
+    ]
+  },
+  "adenomyosis": {
+    "home_remedies": [
+      "Apply a heating pad to the abdomen for pain relief.",
+      "Practice relaxation techniques like deep breathing or yoga.",
+      "Take over-the-counter pain relievers as needed."
+    ],
+    "ayurvedic_remedies": [
+      "Use Ashoka (Saraca asoca) bark extract for hormonal balance.",
+      "Drink ginger tea regularly for anti-inflammatory effects.",
+      "Take Shatavari (Asparagus racemosus) for reproductive health support."
+    ]
+  },
+  "alcohol_related_liver_disease": {
+    "home_remedies": [
+      "Avoid alcohol completely to prevent further liver damage.",
+      "Eat a healthy diet low in fat and rich in fruits and vegetables.",
+      "Stay hydrated by drinking plenty of water."
+    ],
+    "ayurvedic_remedies": [
+      "Take Kutki (Picrorhiza kurroa) for liver detoxification and support.",
+      "Use Milk Thistle (Silybum marianum) to protect and regenerate liver cells.",
+      "Drink Aloe Vera juice daily for digestive and liver health."
+    ]
+  },
+  "allergic_rhinitis": {
+    "home_remedies": [
+      "Use saline nasal rinses to clear allergens from nasal passages.",
+      "Keep windows closed during high pollen seasons.",
+      "Take over-the-counter antihistamines as needed."
+    ],
+    "ayurvedic_remedies": [
+      "Use Neti pot with warm saline water for nasal irrigation.",
+      "Take Triphala powder to support respiratory health and immunity.",
+      "Drink Tulsi (holy basil) tea for its anti-allergic and immune-modulating properties."
+    ]
+  },
+  "allergies": {
+    "home_remedies": [
+      "Identify and avoid allergens that trigger symptoms.",
+      "Use hypoallergenic bedding and air purifiers at home.",
+      "Take over-the-counter antihistamines or nasal sprays as needed."
+    ],
+    "ayurvedic_remedies": [
+      "Drink licorice tea for its anti-inflammatory and soothing properties.",
+      "Use Turmeric (Curcuma longa) in cooking for its anti-allergic effects.",
+      "Take Haridra (Turmeric) capsules for immune support and allergy relief."
+    ]
+  },
+  "alzheimers_disease": {
+    "home_remedies": [
+      "Engage in regular mental exercises like puzzles or reading.",
+      "Create a structured daily routine to reduce confusion.",
+      "Encourage physical exercise to support brain health."
+    ],
+    "ayurvedic_remedies": [
+      "Take Brahmi (Gotu Kola) for cognitive support and memory enhancement.",
+      "Use Ashwagandha (Withania somnifera) to reduce stress and improve mental clarity.",
+      "Drink warm milk with a pinch of turmeric and honey before bed for brain health."
+    ]
+  },
+  "amyloidosis": {
+    "home_remedies": [
+      "Monitor and manage blood pressure and cholesterol levels.",
+      "Eat a low-sodium diet to reduce fluid retention.",
+      "Stay hydrated and avoid strenuous activities."
+    ],
+    "ayurvedic_remedies": [
+      "Use Guduchi (Tinospora cordifolia) for immune support and detoxification.",
+      "Drink Punarnava (Boerhavia diffusa) tea for kidney health and fluid balance.",
+      "Take Kutki (Picrorhiza kurroa) for liver detoxification and overall health."
+    ]
+  },
+  "anal_fissure": {
+    "home_remedies": [
+      "Increase fiber intake to soften stools and ease bowel movements.",
+      "Take warm baths (sitz baths) to soothe the anal area.",
+      "Apply aloe vera gel or coconut oil to promote healing."
+    ],
+    "ayurvedic_remedies": [
+      "Drink plenty of warm water throughout the day for hydration and digestion.",
+      "Apply Triphala powder paste to the affected area for its healing properties.",
+      "Take Gandhaka Rasayana (purified sulfur) for its healing and antimicrobial effects."
+    ]
+  },
+  "anaphylaxis": {
+    "home_remedies": [
+      "Use an epinephrine auto-injector (EpiPen) immediately if available.",
+      "Lie flat with legs elevated to improve blood flow.",
+      "Seek emergency medical help immediately."
+    ],
+    "ayurvedic_remedies": [
+      "Drink Licorice (Glycyrrhiza glabra) tea to support adrenal function.",
+      "Use Neem oil externally for its antibacterial and anti-inflammatory properties.",
+      "Take Vasaka (Adhatoda vasica) for respiratory support and allergy management."
+    ]
+  },
+  "anemia": {
+    "home_remedies": [
+      "Eat iron-rich foods like leafy greens, red meat, and beans.",
+      "Increase vitamin C intake to enhance iron absorption.",
+      "Avoid drinking tea or coffee with meals, as they can inhibit iron absorption."
+    ],
+    "ayurvedic_remedies": [
+      "Take Triphala powder to improve digestion and nutrient absorption.",
+      "Use Punarnava (Boerhavia diffusa) for its rejuvenating and iron-boosting properties.",
+      "Include Ashwagandha (Withania somnifera) for its energy-boosting and blood-building effects."
+    ]
+  },
+  "ankylosing_spondylitis": {
+    "home_remedies": [
+      "Exercise regularly to maintain flexibility and posture.",
+      "Apply hot or cold packs to reduce pain and inflammation.",
+      "Practice good posture and ergonomics in daily activities."
+    ],
+    "ayurvedic_remedies": [
+      "Take Guggulu (Commiphora wightii) for its anti-inflammatory and joint-supportive effects.",
+      "Use Shallaki (Boswellia serrata) for reducing pain and improving joint mobility.",
+      "Apply Mahanarayan oil to the affected joints for its warming and soothing properties."
+    ]
+  },
+  "anorexia_nervosa": {
+    "home_remedies": [
+      "Encourage regular meals and snacks throughout the day.",
+      "Provide emotional support and avoid criticizing appearance or eating habits.",
+      "Seek professional help from therapists specializing in eating disorders."
+    ],
+    "ayurvedic_remedies": [
+      "Use Ashwagandha (Withania somnifera) for stress reduction and emotional balance.",
+      "Include Brahmi (Gotu Kola) for mental clarity and cognitive function support.",
+      "Take Shankhpushpi (Convolvulus pluricaulis) for calming effects and mental relaxation."
+    ]
+  },
+  "anxiety": {
+    "home_remedies": [
+      "Practice deep breathing exercises and progressive muscle relaxation.",
+      "Engage in regular physical activity to reduce stress and tension.",
+      "Limit caffeine and alcohol intake, as they can exacerbate anxiety."
+    ],
+    "ayurvedic_remedies": [
+      "Take Brahmi (Gotu Kola) capsules or powder for calming the mind and reducing anxiety.",
+      "Use Ashwagandha (Withania somnifera) for its adaptogenic properties to manage stress.",
+      "Drink Chamomile tea for its calming effects on the nervous system."
+    ]
+  },
+  "aphthous_stomatitis": {
+    "home_remedies": [
+      "Rinse mouth with salt water or baking soda solution for pain relief.",
+      "Avoid spicy and acidic foods that can irritate mouth sores.",
+      "Apply aloe vera gel or honey directly to the sores for healing."
+    ],
+    "ayurvedic_remedies": [
+      "Use Triphala mouth rinse for its antibacterial and healing properties.",
+      "Apply coconut oil or sesame oil to the affected area for soothing relief.",
+      "Take Turmeric (Curcuma longa) capsules for its anti-inflammatory and immune-boosting effects."
+    ]
+  },
+  "appendicitis": {
+    "home_remedies": [
+      "Rest and avoid strenuous activities.",
+      "Apply a cold compress to the abdomen for pain relief.",
+      "Drink clear fluids to stay hydrated."
+    ],
+    "ayurvedic_remedies": [
+      "Use ginger tea or fresh ginger for its anti-inflammatory properties.",
+      "Take Triphala powder to support digestive health and detoxification.",
+      "Apply warm sesame oil to the abdomen for its soothing and anti-inflammatory effects."
+    ]
+  },
+  "arthritis": {
+    "home_remedies": [
+      "Maintain a healthy weight to reduce stress on joints.",
+      "Apply hot or cold packs to relieve pain and inflammation.",
+      "Engage in low-impact exercises like swimming or yoga."
+    ],
+    "ayurvedic_remedies": [
+      "Take Guggulu (Commiphora wightii) for its anti-inflammatory and joint-supportive effects.",
+      "Use Ashwagandha (Withania somnifera) for its pain-relieving and anti-inflammatory properties.",
+      "Apply Mahanarayan oil to the affected joints for its warming and soothing effects."
+    ]
+  },
+  "asthma": {
+    "home_remedies": [
+      "Use air purifiers and remove potential allergens from the home.",
+      "Practice breathing exercises and relaxation techniques.",
+      "Take steam inhalation with eucalyptus or peppermint oil."
+    ],
+    "ayurvedic_remedies": [
+      "Take Vasaka (Adhatoda vasica) for its bronchodilator and expectorant properties.",
+      "Use Tulsi (holy basil) for its anti-inflammatory and anti-asthmatic effects.",
+      "Drink warm water with ginger and honey for soothing respiratory passages."
+    ]
+  },
+  "atherosclerosis": {
+    "home_remedies": [
+      "Eat a heart-healthy diet low in saturated fats and cholesterol.",
+      "Exercise regularly to improve circulation and lower blood pressure.",
+      "Quit smoking and manage stress levels effectively."
+    ],
+    "ayurvedic_remedies": [
+      "Take Arjuna (Terminalia arjuna) for its cardioprotective and cholesterol-lowering effects.",
+      "Use Garlic (Allium sativum) for its anti-platelet and cholesterol-lowering properties.",
+      "Drink Hawthorn tea for its cardiovascular benefits and circulation support."
+    ]
+  },
+  "atopic_eczema": {
+    "home_remedies": [
+      "Use mild, fragrance-free soaps and detergents.",
+      "Apply moisturizers immediately after bathing to lock in moisture.",
+      "Avoid scratching affected areas to prevent infection."
+    ],
+    "ayurvedic_remedies": [
+      "Apply Neem oil or paste to affected areas for its anti-inflammatory and antimicrobial properties.",
+      "Take Triphala powder internally for its detoxifying and skin-healing benefits.",
+      "Use coconut oil as a natural moisturizer for soothing the skin."
+    ]
+  },
+  "autoimmune_hepatitis": {
+    "home_remedies": [
+      "Eat a balanced diet low in salt and processed foods.",
+      "Avoid alcohol and over-the-counter medications that can harm the liver.",
+      "Stay hydrated and maintain a healthy weight."
+    ],
+    "ayurvedic_remedies": [
+      "Take Kutki (Picrorhiza kurroa) for liver detoxification and support.",
+      "Use Bhumi Amla (Phyllanthus niruri) for its hepatoprotective properties.",
+      "Drink Aloe Vera juice for its liver-cleansing and anti-inflammatory effects."
+    ]
+  },
+  "autoimmune_thyroiditis": {
+    "home_remedies": [
+      "Eat a balanced diet rich in iodine and selenium.",
+      "Manage stress through yoga, meditation, or other relaxation techniques.",
+      "Ensure regular thyroid function tests and medication adjustments as needed."
+    ],
+    "ayurvedic_remedies": [
+      "Take Guggulu (Commiphora wightii) for its anti-inflammatory and thyroid-supporting effects.",
+      "Use Ashwagandha (Withania somnifera) for its adaptogenic properties and stress relief.",
+      "Include Kanchanar Guggulu for thyroid health and metabolism regulation."
+    ]
+  },
+  "avascular_necrosis": {
+    "home_remedies": [
+      "Avoid putting weight on the affected joint to reduce stress.",
+      "Use crutches or a cane to limit movement and aid healing.",
+      "Apply ice packs to reduce pain and inflammation."
+    ],
+    "ayurvedic_remedies": [
+      "Take Guggulu (Commiphora wightii) for its anti-inflammatory and joint-supportive effects.",
+      "Use Shallaki (Boswellia serrata) for pain relief and joint healing.",
+      "Apply Mahanarayan oil to the affected joint for its warming and soothing properties."
+    ]
+  },
+  "bacterial_vaginosis": {
+    "home_remedies": [
+      "Maintain good hygiene practices, including wearing breathable cotton underwear.",
+      "Avoid douching or using scented products in the vaginal area.",
+      "Eat yogurt with live cultures to promote healthy vaginal flora."
+    ],
+    "ayurvedic_remedies": [
+      "Use Neem capsules or tea tree oil for their antibacterial properties.",
+      "Take Triphala internally for its detoxifying and immune-supporting effects.",
+      "Apply coconut oil or sesame oil externally for soothing and moisturizing."
+    ]
+  },
+  "barretts_esophagus": {
+    "home_remedies": [
+      "Eat smaller, more frequent meals to reduce acid reflux.",
+      "Avoid spicy, acidic, and fatty foods that can trigger symptoms.",
+      "Maintain a healthy weight and avoid smoking."
+    ],
+    "ayurvedic_remedies": [
+      "Take Licorice (Glycyrrhiza glabra) for its soothing and anti-inflammatory effects on the esophagus.",
+      "Use Aloe Vera juice for its cooling and healing properties in the digestive tract.",
+      "Drink Marshmallow root tea for its mucilaginous properties that soothe the esophagus."
+    ]
+  },
+  "benign_prostatic_hyperplasia": {
+    "home_remedies": [
+      "Urinate when you first get the urge to reduce bladder strain.",
+      "Limit fluids before bedtime to reduce nighttime urination.",
+      "Avoid caffeine and alcohol, which can irritate the bladder."
+    ],
+    "ayurvedic_remedies": [
+      "Take Saw Palmetto supplements for prostate health and urinary function.",
+      "Use Gokshura (Tribulus terrestris) for its diuretic and prostate-supportive effects.",
+      "Drink Nettle root tea for its anti-inflammatory properties in urinary conditions."
+    ]
+  },
+  "bile_duct_cancer": {
+    "home_remedies": [
+      "Eat a balanced diet rich in fruits, vegetables, and whole grains.",
+      "Stay hydrated by drinking plenty of water throughout the day.",
+      "Engage in regular physical activity to maintain overall health."
+    ],
+    "ayurvedic_remedies": [
+      "Use Turmeric (Curcuma longa) for its anti-inflammatory and antioxidant effects.",
+      "Take Ashwagandha (Withania somnifera) for immune support and overall well-being.",
+      "Include Amla (Indian gooseberry) for its anti-cancer properties and immune modulation."
+    ]
+  },
+  "biliary_colic": {
+    "home_remedies": [
+      "Apply a heating pad to the abdomen to alleviate pain.",
+      "Avoid fatty and spicy foods that can trigger symptoms.",
+      "Stay hydrated by drinking plenty of water."
+    ],
+    "ayurvedic_remedies": [
+      "Take Kutki (Picrorhiza kurroa) for liver support and detoxification.",
+      "Use Punarnava (Boerhavia diffusa) for its diuretic and liver-protective effects.",
+      "Drink warm ginger tea for its digestive and anti-inflammatory properties."
+    ]
+  },
+  "bipolar_disorder": {
+    "home_remedies": [
+      "Maintain a regular sleep schedule to stabilize mood.",
+      "Engage in regular physical activity to reduce symptoms of depression and mania.",
+      "Practice stress-reduction techniques such as yoga or meditation."
+    ],
+    "ayurvedic_remedies": [
+      "Take Brahmi (Gotu Kola) for its calming effects on the mind and nervous system.",
+      "Use Ashwagandha (Withania somnifera) for its adaptogenic properties and stress relief.",
+      "Include Jatamansi (Nardostachys jatamansi) for its mood-stabilizing effects."
+    ]
+  },
+  "bladder_cancer": {
+    "home_remedies": [
+      "Quit smoking and avoid exposure to harmful chemicals.",
+      "Eat a diet rich in fruits, vegetables, and whole grains.",
+      "Stay hydrated by drinking plenty of water."
+    ],
+    "ayurvedic_remedies": [
+      "Take Turmeric (Curcuma longa) for its anti-inflammatory and antioxidant effects.",
+      "Use Punarnava (Boerhavia diffusa) for kidney and urinary tract support.",
+      "Drink Amla (Indian gooseberry) juice for its immune-boosting and anti-cancer properties."
+    ]
+  },
+  "bladder_infection": {
+    "home_remedies": [
+      "Drink plenty of water to flush out bacteria from the urinary tract.",
+      "Urinate soon after sexual intercourse to reduce the risk of infection.",
+      "Apply a warm compress to the lower abdomen to ease discomfort."
+    ],
+    "ayurvedic_remedies": [
+      "Take Gokshura (Tribulus terrestris) for its diuretic and antimicrobial properties.",
+      "Use Chandanasava or Sandalwood oil for its cooling and antibacterial effects.",
+      "Drink Coriander seed tea for its soothing and anti-inflammatory properties."
+    ]
+  },
+  "blepharitis": {
+    "home_remedies": [
+      "Apply a warm compress to the eyelids to loosen crusts and soothe irritation.",
+      "Cleanse eyelids with a mild baby shampoo diluted in warm water.",
+      "Avoid wearing eye makeup and contact lenses during flare-ups."
+    ],
+    "ayurvedic_remedies": [
+      "Use Triphala eyewash for its anti-inflammatory and cleansing effects.",
+      "Apply Castor oil to the eyelids for lubrication and soothing relief.",
+      "Take Amla (Indian gooseberry) internally for its antioxidant and anti-inflammatory properties."
+    ]
+  },
+  "boils": {
+    "home_remedies": [
+      "Apply warm compresses to the boil several times a day to promote drainage.",
+      "Keep the affected area clean and avoid squeezing or picking at the boil.",
+      "Apply tea tree oil or turmeric paste to the boil for its antimicrobial properties."
+    ],
+    "ayurvedic_remedies": [
+      "Use Neem oil or paste on the affected area for its antibacterial and healing properties.",
+      "Take Triphala internally to detoxify the body and support immune function.",
+      "Apply Manjistha powder paste to the boil for its anti-inflammatory effects."
+    ]
+  },
+  "bronchiectasis": {
+    "home_remedies": [
+      "Quit smoking and avoid exposure to secondhand smoke.",
+      "Practice airway clearance techniques prescribed by a healthcare provider.",
+      "Stay hydrated by drinking plenty of fluids throughout the day."
+    ],
+    "ayurvedic_remedies": [
+      "Take Vasaka (Adhatoda vasica) for its bronchodilator and expectorant properties.",
+      "Use Pippali (Piper longum) for its respiratory and immune-supporting effects.",
+      "Drink warm ginger tea for its anti-inflammatory and mucolytic properties."
+    ]
+  },
+  "bronchitis": {
+    "home_remedies": [
+      "Drink plenty of fluids to stay hydrated and thin mucus.",
+      "Use a humidifier or steam inhalation to soothe irritated airways.",
+      "Rest and avoid smoking or exposure to secondhand smoke."
+    ],
+    "ayurvedic_remedies": [
+      "Take Tulsi (holy basil) for its anti-inflammatory and antimicrobial properties.",
+      "Use Trikatu (combination of ginger, black pepper, and long pepper) for respiratory support.",
+      "Drink warm water with honey and ginger for soothing relief and immune support."
+    ]
+  },
+  "bulimia_nervosa": {
+    "home_remedies": [
+      "Encourage regular meals and snacks throughout the day.",
+      "Provide emotional support and avoid criticizing appearance or eating habits.",
+      "Seek professional help from therapists specializing in eating disorders."
+    ],
+    "ayurvedic_remedies": [
+      "Use Brahmi (Gotu Kola) for mental clarity and cognitive function support.",
+      "Take Ashwagandha (Withania somnifera) for stress reduction and emotional balance.",
+      "Include Shankhpushpi (Convolvulus pluricaulis) for calming effects and mental relaxation."
+    ]
+  },
+  "burns": {
+    "home_remedies": [
+      "Run cool water over the burn for at least 10 minutes.",
+      "Apply aloe vera gel or honey to the burn for soothing relief.",
+      "Cover the burn with a sterile gauze bandage to protect it."
+    ],
+    "ayurvedic_remedies": [
+      "Apply coconut oil or ghee to the burn for its cooling and healing properties.",
+      "Use Turmeric (Curcuma longa) paste for its anti-inflammatory and antimicrobial effects.",
+      "Take Neem capsules internally for their antibacterial and immune-boosting properties."
+    ]
+  },
+  "bursitis": {
+    "home_remedies": [
+      "Rest the affected joint and avoid activities that worsen pain.",
+      "Apply ice packs to reduce inflammation and pain.",
+      "Use over-the-counter pain relievers as needed."
+    ],
+    "ayurvedic_remedies": [
+      "Take Guggulu (Commiphora wightii) for its anti-inflammatory and joint-supportive effects.",
+      "Apply Mahanarayan oil to the affected joint for its warming and soothing properties.",
+      "Use Shallaki (Boswellia serrata) for pain relief and joint healing."
+    ]
+  },
+  "candidiasis": {
+    "home_remedies": [
+      "Practice good hygiene, especially in moist and warm areas of the body.",
+      "Avoid wearing tight-fitting clothing made from synthetic fibers.",
+      "Eat yogurt with live cultures to promote healthy bacteria."
+    ],
+    "ayurvedic_remedies": [
+      "Use Neem capsules or tea tree oil for their antifungal and antibacterial properties.",
+      "Take Triphala internally for its detoxifying and immune-supporting effects.",
+      "Apply coconut oil or sesame oil externally for soothing and moisturizing."
+    ]
+  },
+  "carpal_tunnel_syndrome": {
+    "home_remedies": [
+      "Take frequent breaks from repetitive tasks to rest your hands.",
+      "Apply ice packs to reduce swelling and inflammation.",
+      "Perform wrist exercises and stretches to improve flexibility."
+    ],
+    "ayurvedic_remedies": [
+      "Use Ashwagandha (Withania somnifera) for its anti-inflammatory and pain-relieving properties.",
+      "Take Guggulu (Commiphora wightii) for its joint-supportive effects and anti-inflammatory benefits.",
+      "Apply Mahanarayan oil to the affected area for its soothing and healing effects."
+    ]
+  },
+  "celiac_disease": {
+    "home_remedies": [
+      "Strictly adhere to a gluten-free diet to prevent symptoms.",
+      "Read food labels carefully and avoid cross-contamination.",
+      "Consider taking gluten-digesting enzymes under medical supervision."
+    ],
+    "ayurvedic_remedies": [
+      "Use Triphala for its detoxifying and digestive support.",
+      "Take Kutki (Picrorhiza kurroa) for liver support and detoxification.",
+      "Include Aloe Vera juice for its healing and anti-inflammatory effects on the digestive tract."
+    ]
+  },
+  "cervical_spondylosis": {
+    "home_remedies": [
+      "Practice good posture and ergonomics to reduce strain on the neck.",
+      "Use a firm pillow and maintain proper sleeping position.",
+      "Apply hot or cold packs to the neck for pain relief."
+    ],
+    "ayurvedic_remedies": [
+      "Take Ashwagandha (Withania somnifera) for its anti-inflammatory and pain-relieving properties.",
+      "Use Guggulu (Commiphora wightii) for its joint-supportive effects and anti-inflammatory benefits.",
+      "Apply Mahanarayan oil to the neck for its warming and soothing effects."
+    ]
+  },
+  "chikungunya": {
+    "home_remedies": [
+      "Get plenty of rest to support the immune system.",
+      "Drink fluids to prevent dehydration.",
+      "Use pain relievers and anti-inflammatories as recommended."
+    ],
+    "ayurvedic_remedies": [
+      "Take Giloy (Tinospora cordifolia) for its immune-boosting and fever-reducing effects.",
+      "Use Tulsi (holy basil) for its anti-inflammatory and analgesic properties.",
+      "Drink warm water with ginger and honey for soothing relief."
+    ]
+  },
+  "chlamydia_infection": {
+    "home_remedies": [
+      "Complete the full course of prescribed antibiotics.",
+      "Practice safe sex practices to prevent re-infection.",
+      "Avoid sexual activity until treatment is completed and symptoms resolve."
+    ],
+    "ayurvedic_remedies": [
+      "Use Neem capsules or tea tree oil for their antimicrobial properties.",
+      "Take Triphala internally for its detoxifying and immune-supporting effects.",
+      "Apply coconut oil or sesame oil externally for soothing and moisturizing."
+    ]
+  },
+  "chronic_fatigue_syndrome": {
+    "home_remedies": [
+      "Establish a consistent sleep schedule and prioritize rest.",
+      "Practice gentle exercises like yoga or walking for physical activity.",
+      "Manage stress through relaxation techniques such as meditation or deep breathing."
+    ],
+    "ayurvedic_remedies": [
+      "Take Ashwagandha (Withania somnifera) for its adaptogenic properties and energy-boosting effects.",
+      "Use Shatavari (Asparagus racemosus) for its rejuvenating and stress-relieving effects.",
+      "Drink Licorice (Glycyrrhiza glabra) tea for adrenal support and energy enhancement."
+    ]
+  },
+  "chronic_kidney_disease": {
+    "home_remedies": [
+      "Follow a kidney-friendly diet low in sodium, potassium, and phosphorus.",
+      "Monitor blood pressure and blood sugar levels regularly.",
+      "Stay hydrated by drinking enough water throughout the day."
+    ],
+    "ayurvedic_remedies": [
+      "Take Punarnava (Boerhavia diffusa) for its diuretic and kidney-supportive effects.",
+      "Use Gokshura (Tribulus terrestris) for its diuretic and urinary tract health benefits.",
+      "Drink Kutki (Picrorhiza kurroa) tea for liver detoxification and kidney support."
+    ]
+  },
+  "chronic_obstructive_pulmonary_disease_copd": {
+    "home_remedies": [
+      "Quit smoking and avoid exposure to secondhand smoke and air pollutants.",
+      "Stay physically active with exercises like walking or swimming.",
+      "Practice breathing techniques to improve lung function and reduce shortness of breath."
+    ],
+    "ayurvedic_remedies": [
+      "Take Vasaka (Adhatoda vasica) for its bronchodilator and expectorant properties.",
+      "Use Pippali (Piper longum) for its respiratory and immune-supporting effects.",
+      "Drink warm water with honey and ginger for soothing relief and respiratory support."
+    ]
+  },
+  "cirrhosis": {
+    "home_remedies": [
+      "Eat a balanced diet low in salt and processed foods.",
+      "Avoid alcohol and medications that can further damage the liver.",
+      "Stay hydrated and manage fluid retention with a low-sodium diet."
+    ],
+    "ayurvedic_remedies": [
+      "Take Kutki (Picrorhiza kurroa) for liver detoxification and support.",
+      "Use Bhumi Amla (Phyllanthus niruri) for its hepatoprotective properties.",
+      "Drink Aloe Vera juice for its liver-cleansing and anti-inflammatory effects."
+    ]
+  },
+  "common_cold": {
+    "home_remedies": [
+      "Drink plenty of fluids such as water, herbal teas, and clear broths.",
+      "Get plenty of rest to support the immune system.",
+      "Use saline nasal drops or sprays to relieve nasal congestion."
+    ],
+    "ayurvedic_remedies": [
+      "Take Tulsi (holy basil) for its immune-boosting and antimicrobial properties.",
+      "Use Trikatu (combination of ginger, black pepper, and long pepper) for respiratory support.",
+      "Drink warm water with ginger and honey for soothing relief and immune support."
+    ]
+  },
+  "conjunctivitis": {
+    "home_remedies": [
+      "Apply a cold compress to reduce eye swelling and irritation.",
+      "Avoid touching or rubbing your eyes to prevent spreading the infection.",
+      "Use artificial tears to lubricate and soothe the eyes."
+    ],
+    "ayurvedic_remedies": [
+      "Use Triphala eyewash for its cleansing and antimicrobial properties.",
+      "Apply Rose water to the eyes for its cooling and soothing effects.",
+      "Take Amla (Indian gooseberry) internally for its antioxidant and immune-boosting properties."
+    ]
+  },
+  "constipation": {
+    "home_remedies": [
+      "Increase fiber intake with fruits, vegetables, and whole grains.",
+      "Stay hydrated by drinking plenty of water throughout the day.",
+      "Engage in regular physical activity to stimulate bowel movements."
+    ],
+    "ayurvedic_remedies": [
+      "Take Triphala powder or tablets to support digestive health and regularity.",
+      "Use Psyllium husk (Isabgol) for its natural laxative effects and fiber content.",
+      "Drink warm water with lemon juice in the morning to stimulate digestion."
+    ]
+  },
+  "contact_dermatitis": {
+    "home_remedies": [
+      "Wash the affected area with mild soap and water to remove the irritant.",
+      "Apply a cold compress to reduce inflammation and soothe the skin.",
+      "Use fragrance-free moisturizers and avoid scratching the affected area."
+    ],
+    "ayurvedic_remedies": [
+      "Apply coconut oil or Neem oil to the affected area for its anti-inflammatory and soothing properties.",
+      "Take Turmeric (Curcuma longa) internally or apply as a paste for its healing and anti-inflammatory effects.",
+      "Drink Neem tea or Aloe Vera juice for their detoxifying and skin-soothing benefits."
+    ]
+  },
+  "coronary_artery_disease": {
+    "home_remedies": [
+      "Follow a heart-healthy diet low in saturated fats and cholesterol.",
+      "Exercise regularly to improve cardiovascular health and circulation.",
+      "Quit smoking and manage stress levels effectively."
+    ],
+    "ayurvedic_remedies": [
+      "Take Arjuna (Terminalia arjuna) for its cardioprotective and cholesterol-lowering effects.",
+      "Use Guggulu (Commiphora wightii) for its lipid-lowering and anti-inflammatory properties.",
+      "Drink Hawthorn tea for its cardiovascular benefits and antioxidant effects."
+    ]
+  },
+  "dandruff": {
+    "home_remedies": [
+      "Use anti-dandruff shampoos containing ingredients like zinc pyrithione or ketoconazole.",
+      "Apply diluted apple cider vinegar to the scalp to restore pH balance.",
+      "Massage coconut oil or tea tree oil into the scalp for their antimicrobial properties."
+    ],
+    "ayurvedic_remedies": [
+      "Apply Neem oil or Brahmi oil to the scalp for their antibacterial and scalp-nourishing effects.",
+      "Use Amla (Indian gooseberry) powder or oil for its scalp-cleansing and hair-strengthening properties.",
+      "Take Triphala internally for its detoxifying effects on the body and scalp health."
+    ]
+  },
+  "deep_vein_thrombosis": {
+    "home_remedies": [
+      "Move and stretch your legs regularly to improve circulation.",
+      "Elevate your legs when resting to reduce swelling and improve blood flow.",
+      "Wear compression stockings as recommended by your healthcare provider."
+    ],
+    "ayurvedic_remedies": [
+      "Take Guggulu (Commiphora wightii) for its anti-inflammatory and circulatory-supporting effects.",
+      "Use Triphala for its detoxifying and blood-cleansing properties.",
+      "Apply Mahanarayan oil to the affected area for its warming and soothing effects."
+    ]
+  },
+  "dementia": {
+    "home_remedies": [
+      "Encourage mental stimulation through puzzles, games, and reading.",
+      "Establish a daily routine to provide structure and reduce confusion.",
+      "Create a safe and supportive environment to prevent accidents and promote well-being."
+    ],
+    "ayurvedic_remedies": [
+      "Take Brahmi (Gotu Kola) for its cognitive-enhancing and memory-improving effects.",
+      "Use Ashwagandha (Withania somnifera) for its neuroprotective and stress-reducing properties.",
+      "Include Shankhpushpi (Convolvulus pluricaulis) for its calming effects and mental clarity."
+    ]
+  },
+  "dental_abscess": {
+    "home_remedies": [
+      "Rinse your mouth with warm saltwater several times a day.",
+      "Apply a cold compress to the outside of your cheek to reduce pain and swelling.",
+      "Avoid chewing on the affected side and maintain good oral hygiene."
+    ],
+    "ayurvedic_remedies": [
+      "Use Neem oil or Triphala water for mouth rinses due to their antimicrobial properties.",
+      "Apply Turmeric (Curcuma longa) paste to the affected area for its anti-inflammatory and healing effects.",
+      "Drink Licorice (Glycyrrhiza glabra) tea for its soothing and immune-boosting properties."
+    ]
+  },
+  "depression": {
+    "home_remedies": [
+      "Engage in regular physical activity to boost mood and energy levels.",
+      "Practice relaxation techniques such as deep breathing or meditation.",
+      "Maintain a supportive network of friends and family for emotional support."
+    ],
+    "ayurvedic_remedies": [
+      "Take Ashwagandha (Withania somnifera) for its adaptogenic properties and stress-relieving effects.",
+      "Use Brahmi (Gotu Kola) for its calming effects on the mind and nervous system.",
+      "Include Saffron (Crocus sativus) for its mood-enhancing and antidepressant effects."
+    ]
+  },
+  "dermatitis": {
+    "home_remedies": [
+      "Keep the affected area clean and dry to prevent irritation and infection.",
+      "Avoid triggers such as allergens or irritants that worsen symptoms.",
+      "Apply moisturizers or emollients to keep the skin hydrated."
+    ],
+    "ayurvedic_remedies": [
+      "Apply coconut oil or Neem oil to the affected area for their anti-inflammatory and soothing properties.",
+      "Take Triphala internally for its detoxifying and immune-supporting effects.",
+      "Drink Aloe Vera juice for its healing and skin-soothing properties."
+    ]
+  },
+  "diabetes": {
+    "home_remedies": [
+      "Monitor blood sugar levels regularly and keep a record of readings.",
+      "Follow a balanced diet low in sugar, refined carbohydrates, and saturated fats.",
+      "Engage in regular physical activity to improve insulin sensitivity."
+    ],
+    "ayurvedic_remedies": [
+      "Take Bitter melon (Momordica charantia) for its blood sugar-lowering effects.",
+      "Use Cinnamon (Cinnamomum verum) for its ability to improve insulin sensitivity.",
+      "Drink Fenugreek seed tea for its potential to lower blood sugar levels."
+    ]
+  },
+  "diaper_rash": {
+    "home_remedies": [
+      "Change diapers frequently to keep the area clean and dry.",
+      "Apply a thick layer of zinc oxide cream or petroleum jelly to protect the skin.",
+      "Let the baby's skin air-dry before putting on a new diaper."
+    ],
+    "ayurvedic_remedies": [
+      "Apply coconut oil or sesame oil to the affected area for their moisturizing and soothing properties.",
+      "Use Neem oil or powder for its antibacterial and skin-protective effects.",
+      "Apply Aloe Vera gel or juice to promote healing and soothe irritated skin."
+    ]
+  },
+  "diverticulitis": {
+    "home_remedies": [
+      "Follow a clear liquid diet during acute flare-ups to rest the bowel.",
+      "Gradually introduce low-fiber foods as symptoms improve.",
+      "Stay hydrated by drinking plenty of fluids, excluding alcohol and caffeine."
+    ],
+    "ayurvedic_remedies": [
+      "Take Triphala to support digestive health and regulate bowel movements.",
+      "Use Licorice (Glycyrrhiza glabra) for its anti-inflammatory and soothing effects on the digestive tract.",
+      "Drink Aloe Vera juice for its healing and anti-inflammatory properties."
+    ]
+  },
+  "dry_eye_syndrome": {
+    "home_remedies": [
+      "Use artificial tears or lubricating eye drops to relieve dryness.",
+      "Apply a warm compress over closed eyes to loosen oil in the glands.",
+      "Avoid exposure to smoke, wind, and dry environments."
+    ],
+    "ayurvedic_remedies": [
+      "Use Triphala eyewash for its cleansing and soothing effects on the eyes.",
+      "Apply Ghee (clarified butter) to the eyelids for its lubricating and hydrating properties.",
+      "Take Amla (Indian gooseberry) internally for its antioxidant and eye-nourishing benefits."
+    ]
+  },
+  "dry_skin": {
+    "home_remedies": [
+      "Use moisturizers regularly, especially after bathing or washing hands.",
+      "Take shorter showers with lukewarm water instead of hot water.",
+      "Use a humidifier to add moisture to indoor air during dry seasons."
+    ],
+    "ayurvedic_remedies": [
+      "Apply sesame oil or coconut oil to the skin for their moisturizing and nourishing properties.",
+      "Take Triphala internally for its detoxifying and skin-supporting effects.",
+      "Use Aloe Vera gel or juice topically for its soothing and hydrating effects on dry skin."
+    ]
+  },
+  "dysentery": {
+    "home_remedies": [
+      "Drink plenty of fluids to prevent dehydration and restore electrolyte balance.",
+      "Eat bland foods such as bananas, rice, applesauce, and toast.",
+      "Practice good hand hygiene to prevent the spread of infection."
+    ],
+    "ayurvedic_remedies": [
+      "Take Bilva (Aegle marmelos) for its anti-dysenteric and digestive-supporting effects.",
+      "Use Dhataki (Woodfordia fruticosa) for its astringent and antibacterial properties.",
+      "Drink pomegranate juice for its anti-inflammatory and gut-soothing effects."
+    ]
+  },
+  "dysmenorrhea": {
+    "home_remedies": [
+      "Apply heat to the abdomen with a heating pad or warm compress.",
+      "Practice relaxation techniques such as deep breathing or yoga.",
+      "Take over-the-counter pain relievers such as ibuprofen or naproxen."
+    ],
+    "ayurvedic_remedies": [
+      "Use Ashoka (Saraca asoca) for its uterine tonic and menstrual pain-relieving effects.",
+      "Take Shatavari (Asparagus racemosus) for hormonal balance and reproductive health.",
+      "Drink ginger tea or warm water with ginger for its anti-inflammatory and pain-relieving properties."
+    ]
+  },
+  "dyspepsia": {
+    "home_remedies": [
+      "Eat smaller, more frequent meals to ease digestion.",
+      "Avoid trigger foods such as spicy or fatty foods that worsen symptoms.",
+      "Practice relaxation techniques to reduce stress and improve digestion."
+    ],
+    "ayurvedic_remedies": [
+      "Take Trikatu (combination of ginger, black pepper, and long pepper) for digestive support.",
+      "Use Licorice (Glycyrrhiza glabra) for its soothing and anti-inflammatory effects on the stomach lining.",
+      "Drink Cumin seed tea for its carminative and digestive properties."
+    ]
+  },
+  "eczema": {
+    "home_remedies": [
+      "Moisturize the skin regularly with emollients to prevent dryness and irritation.",
+      "Avoid triggers such as harsh soaps, fragrances, and certain fabrics.",
+      "Take short lukewarm baths or showers to hydrate the skin without drying it out."
+    ],
+    "ayurvedic_remedies": [
+      "Apply coconut oil or Neem oil to the affected area for their anti-inflammatory and skin-soothing properties.",
+      "Use Turmeric (Curcuma longa) internally or as a paste for its healing and anti-inflammatory effects.",
+      "Drink Neem tea or Aloe Vera juice for their detoxifying and skin-soothing benefits."
+    ]
+  },
+  "edema": {
+    "home_remedies": [
+      "Elevate the affected area above the heart to reduce swelling.",
+      "Apply cold compresses or ice packs to reduce inflammation and pain.",
+      "Follow a low-sodium diet to prevent fluid retention."
+    ],
+    "ayurvedic_remedies": [
+      "Take Punarnava (Boerhavia diffusa) for its diuretic and anti-inflammatory effects.",
+      "Use Gokshura (Tribulus terrestris) for its urinary and kidney-supportive properties.",
+      "Apply sesame oil or coconut oil to the affected area for its warming and soothing effects."
+    ]
+  },
+  "endometriosis": {
+    "home_remedies": [
+      "Apply heat to the abdomen or lower back to relieve pain and muscle tension.",
+      "Stay physically active with exercises like walking or yoga for pain relief.",
+      "Practice relaxation techniques such as deep breathing or meditation."
+    ],
+    "ayurvedic_remedies": [
+      "Take Ashoka (Saraca asoca) for its uterine tonic and menstrual pain-relieving effects.",
+      "Use Shatavari (Asparagus racemosus) for hormonal balance and reproductive health.",
+      "Drink ginger tea or warm water with ginger for its anti-inflammatory and pain-relieving properties."
+    ]
+  },
+  "epilepsy": {
+    "home_remedies": [
+      "Follow your prescribed medication regimen as directed by your healthcare provider.",
+      "Create a safe environment to prevent injury during seizures.",
+      "Maintain a regular sleep schedule and avoid triggers that can lower seizure threshold."
+    ],
+    "ayurvedic_remedies": [
+      "Take Brahmi (Gotu Kola) for its neuroprotective and anti-epileptic effects.",
+      "Use Ashwagandha (Withania somnifera) for its calming and stress-reducing properties.",
+      "Include Shankhpushpi (Convolvulus pluricaulis) for its memory-enhancing and cognitive benefits."
+    ]
+  },
+  "erectile_dysfunction": {
+    "home_remedies": [
+      "Maintain a healthy weight and exercise regularly to improve blood flow.",
+      "Limit alcohol consumption and avoid smoking or recreational drug use.",
+      "Practice relaxation techniques to reduce stress and anxiety."
+    ],
+    "ayurvedic_remedies": [
+      "Take Ashwagandha (Withania somnifera) for its libido-enhancing and stress-reducing effects.",
+      "Use Shatavari (Asparagus racemosus) for reproductive health and vitality.",
+      "Include Kaunch beej (Mucuna pruriens) for its aphrodisiac properties and sexual wellness benefits."
+    ]
+  },
+  "fibroids": {
+    "home_remedies": [
+      "Apply heat to the lower abdomen to relieve pain and discomfort.",
+      "Stay physically active with exercises such as walking or swimming.",
+      "Practice relaxation techniques such as deep breathing or yoga."
+    ],
+    "ayurvedic_remedies": [
+      "Take Shatavari (Asparagus racemosus) for hormonal balance and reproductive health.",
+      "Use Ashoka (Saraca asoca) for its uterine tonic and menstrual pain-relieving effects.",
+      "Drink ginger tea or warm water with ginger for its anti-inflammatory and pain-relieving properties."
+    ]
+  },
+  "fibromyalgia": {
+    "home_remedies": [
+      "Establish a consistent sleep schedule and practice good sleep hygiene.",
+      "Engage in regular, low-impact exercises such as yoga or swimming.",
+      "Manage stress through relaxation techniques such as meditation or deep breathing."
+    ],
+    "ayurvedic_remedies": [
+      "Take Ashwagandha (Withania somnifera) for its adaptogenic properties and energy-boosting effects.",
+      "Use Guggulu (Commiphora wightii) for its anti-inflammatory and joint-supportive benefits.",
+      "Apply Mahanarayan oil to the affected area for its warming and soothing effects."
+    ]
+  },
+  "fungal_infections": {
+    "home_remedies": [
+      "Keep the affected area clean and dry to prevent fungal growth.",
+      "Wear loose-fitting, breathable clothing made from natural fibers.",
+      "Apply antifungal creams or powders as directed."
+    ],
+    "ayurvedic_remedies": [
+      "Use Neem capsules or tea tree oil for their antifungal and antibacterial properties.",
+      "Take Triphala internally for its detoxifying and immune-supporting effects.",
+      "Apply coconut oil or sesame oil externally for their soothing and moisturizing properties."
+    ]
+  },
+  "gastritis": {
+    "home_remedies": [
+      "Follow a bland diet that avoids spicy, acidic, or fatty foods.",
+      "Eat smaller, more frequent meals to ease digestion.",
+      "Avoid alcohol and quit smoking to reduce stomach irritation."
+    ],
+    "ayurvedic_remedies": [
+      "Take Licorice (Glycyrrhiza glabra) for its soothing and anti-inflammatory effects on the stomach lining.",
+      "Use Amla (Indian gooseberry) for its digestive and detoxifying properties.",
+      "Drink Cumin seed tea for its carminative and digestive benefits."
+    ]
+  },
+  "gastroesophageal_reflux_disease_gerd": {
+    "home_remedies": [
+      "Follow a diet that avoids trigger foods such as caffeine, spicy foods, and citrus fruits.",
+      "Eat smaller meals and avoid lying down immediately after eating.",
+      "Maintain a healthy weight and avoid tight clothing that can put pressure on the stomach."
+    ],
+    "ayurvedic_remedies": [
+      "Take Amla (Indian gooseberry) for its digestive and acid-neutralizing properties.",
+      "Use Licorice (Glycyrrhiza glabra) for its soothing and anti-inflammatory effects on the stomach lining.",
+      "Drink Cumin seed tea for its carminative and digestive benefits."
+    ]
+  },
+  "gastroenteritis": {
+    "home_remedies": [
+      "Drink plenty of fluids to prevent dehydration and restore electrolyte balance.",
+      "Eat bland foods such as bananas, rice, applesauce, and toast.",
+      "Rest and avoid strenuous activities until symptoms improve."
+    ],
+    "ayurvedic_remedies": [
+      "Use Ginger (Zingiber officinale) for its anti-inflammatory and digestive-supporting effects.",
+      "Take Kutaja (Holarrhena antidysenterica) for its anti-diarrheal and gut-soothing properties.",
+      "Drink Pomegranate juice for its anti-inflammatory and gut-supportive benefits."
+    ]
+  },
+  "gout": {
+    "home_remedies": [
+      "Apply ice packs to reduce swelling and relieve pain during acute attacks.",
+      "Stay hydrated by drinking plenty of water throughout the day.",
+      "Avoid foods high in purines such as red meat, shellfish, and alcohol."
+    ],
+    "ayurvedic_remedies": [
+      "Use Guduchi (Tinospora cordifolia) for its anti-inflammatory and joint-supporting effects.",
+      "Take Shallaki (Boswellia serrata) for pain relief and joint healing.",
+      "Apply Mahanarayan oil to the affected joint for its warming and soothing properties."
+    ]
+  },
+  "halitosis_bad_breath": {
+    "home_remedies": [
+      "Brush and floss your teeth thoroughly after meals and before bed.",
+      "Use an antimicrobial mouthwash to reduce bacteria that cause bad breath.",
+      "Scrape your tongue to remove odor-causing bacteria and food particles."
+    ],
+    "ayurvedic_remedies": [
+      "Use Clove (Syzygium aromaticum) for its antimicrobial and breath-freshening effects.",
+      "Take Triphala for its detoxifying and digestive-supporting benefits.",
+      "Drink Licorice (Glycyrrhiza glabra) tea for its antibacterial and breath-cleansing properties."
+    ]
+  },
+  "hangover": {
+    "home_remedies": [
+      "Stay hydrated by drinking water and electrolyte-rich fluids.",
+      "Eat a balanced meal with complex carbohydrates and proteins.",
+      "Take pain relievers to alleviate headaches or muscle aches as needed."
+    ],
+    "ayurvedic_remedies": [
+      "Drink ginger tea for its digestive and nausea-relieving properties.",
+      "Use Amla (Indian gooseberry) for its antioxidant and liver-detoxifying effects.",
+      "Take Triphala for its digestive and detoxifying support."
+    ]
+  },
+  "headache": {
+    "home_remedies": [
+      "Apply a cold or warm compress to the forehead or neck to relieve pain.",
+      "Rest in a quiet, dark room with proper ventilation.",
+      "Stay hydrated by drinking water or herbal teas."
+    ],
+    "ayurvedic_remedies": [
+      "Take Brahmi (Gotu Kola) for its stress-relieving and tension-easing effects.",
+      "Use Ashwagandha (Withania somnifera) for its calming and headache-relieving properties.",
+      "Drink Ginger (Zingiber officinale) tea for its anti-inflammatory and pain-relieving benefits."
+    ],
+    "image_url": "https://tse1.mm.bing.net/th?id=OIP.bBIL0Zw0d6Z9UFy5jINpAQHaFj&pid=Api&P=0&h=220"
+  },
+  "hemorrhoids_piles": {
+    "home_remedies": [
+      "Apply ice packs or cold compresses to reduce swelling and pain.",
+      "Soak in warm water baths (sitz baths) to promote healing and relieve discomfort.",
+      "Avoid straining during bowel movements and maintain good hygiene."
+    ],
+    "ayurvedic_remedies": [
+      "Use Triphala for its detoxifying and digestive-supporting benefits.",
+      "Apply Aloe Vera gel or coconut oil to soothe and protect the affected area.",
+      "Drink Buttermilk (Takra) for its digestive and gut-soothing properties."
+    ]
+  },
+  "hepatitis": {
+    "home_remedies": [
+      "Get plenty of rest to support the immune system in fighting the infection.",
+      "Stay hydrated by drinking water, herbal teas, or electrolyte-rich fluids.",
+      "Eat a balanced diet with liver-supportive foods like cruciferous vegetables and fruits."
+    ],
+    "ayurvedic_remedies": [
+      "Use Bhumyamalaki (Phyllanthus niruri) for its liver-protective and antiviral effects.",
+      "Take Kutki (Picrorhiza kurroa) for its hepatoprotective and immune-supporting properties.",
+      "Drink Aloe Vera juice for its detoxifying and gut-soothing benefits."
+    ]
+  },
+  "hernia": {
+    "home_remedies": [
+      "Avoid heavy lifting and strenuous activities that can exacerbate symptoms.",
+      "Maintain a healthy weight and avoid foods that cause bloating or constipation.",
+      "Use abdominal supports or trusses to reduce discomfort during physical activity."
+    ],
+    "ayurvedic_remedies": [
+      "Take Licorice (Glycyrrhiza glabra) for its anti-inflammatory and digestive-supporting effects.",
+      "Use Triphala to support digestive health and regular bowel movements.",
+      "Apply Ginger (Zingiber officinale) paste topically for its warming and soothing effects."
+    ]
+  },
+  "herpes": {
+    "home_remedies": [
+      "Apply ice packs or cold compresses to the affected area to reduce pain and inflammation.",
+      "Practice good hygiene by washing hands and avoiding touching the affected area.",
+      "Avoid triggers such as stress, fatigue, and sun exposure that can cause outbreaks."
+    ],
+    "ayurvedic_remedies": [
+      "Take Neem internally for its antiviral and immune-boosting effects.",
+      "Use Triphala for its detoxifying and immune-supporting properties.",
+      "Apply Aloe Vera gel or coconut oil to soothe and protect the affected skin."
+    ]
+  },
+  "high_blood_pressure_hypertension": {
+    "home_remedies": [
+      "Follow a low-sodium diet rich in fruits, vegetables, and whole grains.",
+      "Engage in regular physical activity such as walking, swimming, or cycling.",
+      "Maintain a healthy weight and limit alcohol consumption."
+    ],
+    "ayurvedic_remedies": [
+      "Take Arjuna (Terminalia arjuna) for its cardio-protective and blood pressure-lowering effects.",
+      "Use Sarpagandha (Rauvolfia serpentina) for its calming and blood pressure-regulating properties.",
+      "Drink Hibiscus tea for its vasodilatory and antioxidant effects."
+    ]
+  },
+  "hives": {
+    "home_remedies": [
+      "Apply a cold compress or ice packs to reduce itching and inflammation.",
+      "Take over-the-counter antihistamines to relieve symptoms of hives.",
+      "Avoid known triggers such as certain foods, medications, or environmental factors."
+    ],
+    "ayurvedic_remedies": [
+      "Apply Neem oil or Aloe Vera gel to the affected area for their anti-inflammatory and soothing properties.",
+      "Use Turmeric (Curcuma longa) internally or as a paste for its immune-supporting and skin-healing effects.",
+      "Drink Nettle tea for its antihistamine and anti-inflammatory benefits."
+    ]
+  },
+  "hyperthyroidism": {
+    "home_remedies": [
+      "Eat a balanced diet rich in iodine, selenium, and other nutrients that support thyroid health.",
+      "Manage stress through relaxation techniques such as meditation or yoga.",
+      "Get regular exercise to support metabolism and overall well-being."
+    ],
+    "ayurvedic_remedies": [
+      "Take Guggulu (Commiphora wightii) for its thyroid-balancing and metabolic-supporting effects.",
+      "Use Brahmi (Gotu Kola) for its calming and nervous system-balancing properties.",
+      "Include Ashwagandha (Withania somnifera) for its adaptogenic and hormone-regulating effects."
+    ]
+  },
+  "hypothyroidism": {
+    "home_remedies": [
+      "Eat a balanced diet rich in iodine, selenium, and other nutrients that support thyroid health.",
+      "Manage stress through relaxation techniques such as meditation or yoga.",
+      "Get regular exercise to support metabolism and overall well-being."
+    ],
+    "ayurvedic_remedies": [
+      "Take Guggulu (Commiphora wightii) for its thyroid-balancing and metabolic-supporting effects.",
+      "Use Brahmi (Gotu Kola) for its calming and nervous system-balancing properties.",
+      "Include Ashwagandha (Withania somnifera) for its adaptogenic and hormone-regulating effects."
+    ]
+  },
+  "hypoglycemia": {
+    "home_remedies": [
+      "Consume regular meals and snacks throughout the day to maintain blood sugar levels.",
+      "Include protein-rich foods and complex carbohydrates in your diet.",
+      "Carry glucose tablets or a quick source of sugar for emergencies."
+    ],
+    "ayurvedic_remedies": [
+      "Use Bitter melon (Momordica charantia) for its blood sugar-lowering effects.",
+      "Take Cinnamon (Cinnamomum verum) for its ability to stabilize blood sugar levels.",
+      "Include Fenugreek seeds or tea for their potential to regulate blood sugar."
+    ]
+  },
+  "hypotension_low_blood_pressure": {
+    "home_remedies": [
+      "Increase salt intake slightly to raise blood pressure, if not contraindicated by other health conditions.",
+      "Drink plenty of fluids to maintain hydration and improve blood volume.",
+      "Eat small, frequent meals to prevent sudden drops in blood pressure."
+    ],
+    "ayurvedic_remedies": [
+      "Use Licorice (Glycyrrhiza glabra) for its blood pressure-raising and adrenal-supporting effects.",
+      "Take Ashwagandha (Withania somnifera) for its adaptogenic properties and stress-relieving effects.",
+      "Drink Hibiscus tea for its vasodilatory and cardiovascular-supporting benefits."
+    ]
+  },
+  "ibs_irritable_bowel_syndrome": {
+    "home_remedies": [
+      "Follow a low-FODMAP diet to identify and avoid trigger foods.",
+      "Eat smaller, more frequent meals to ease digestion.",
+      "Practice stress-relieving techniques such as yoga or meditation."
+    ],
+    "ayurvedic_remedies": [
+      "Take Triphala to support digestive health and regulate bowel movements.",
+      "Use Licorice (Glycyrrhiza glabra) for its soothing and anti-inflammatory effects on the digestive tract.",
+      "Drink Ginger (Zingiber officinale) tea for its carminative and digestive-supporting benefits."
+    ]
+  },
+  "impetigo": {
+    "home_remedies": [
+      "Clean the affected area with mild soap and water to remove crusts and secretions.",
+      "Apply antibiotic ointment or honey to the affected skin to prevent infection.",
+      "Avoid touching or scratching the sores to prevent spreading the infection."
+    ],
+    "ayurvedic_remedies": [
+      "Apply Neem oil or Turmeric (Curcuma longa) paste to the affected area for their antimicrobial and healing properties.",
+      "Use Triphala internally for its detoxifying and immune-supporting effects.",
+      "Drink Aloe Vera juice for its skin-soothing and healing properties."
+    ]
+  },
+  "influenza_flu": {
+    "home_remedies": [
+      "Get plenty of rest to support the immune system in fighting the infection.",
+      "Stay hydrated by drinking water, herbal teas, or electrolyte-rich fluids.",
+      "Use a humidifier to relieve congestion and soothe irritated nasal passages."
+    ],
+    "ayurvedic_remedies": [
+      "Take Tulsi (Holy Basil) for its immune-boosting and antiviral effects.",
+      "Use Ginger (Zingiber officinale) for its anti-inflammatory and fever-reducing properties.",
+      "Drink Turmeric (Curcuma longa) milk or tea for its antioxidant and immune-supporting benefits."
+    ]
+  },
+  "insomnia": {
+    "home_remedies": [
+      "Establish a relaxing bedtime routine to signal your body that it's time to sleep.",
+      "Create a comfortable sleep environment with a cool room temperature and minimal noise.",
+      "Limit screen time and exposure to blue light before bed."
+    ],
+    "ayurvedic_remedies": [
+      "Take Ashwagandha (Withania somnifera) for its adaptogenic properties and stress-reducing effects.",
+      "Use Brahmi (Gotu Kola) for its calming and sleep-enhancing effects.",
+      "Drink warm milk with nutmeg and cardamom to promote relaxation and restful sleep."
+    ]
+  },
+  "irritable_bladder": {
+    "home_remedies": [
+      "Practice Kegel exercises to strengthen pelvic floor muscles and improve bladder control.",
+      "Follow a bladder-friendly diet that avoids irritants such as caffeine, alcohol, and spicy foods.",
+      "Stay hydrated by drinking plenty of water throughout the day."
+    ],
+    "ayurvedic_remedies": [
+      "Take Gokshura (Tribulus terrestris) for its urinary and kidney-supportive properties.",
+      "Use Varuna (Crataeva nurvala) for its diuretic and anti-inflammatory effects.",
+      "Drink coconut water or Aloe Vera juice for their hydrating and soothing benefits."
+    ]
+  },
+  "jaundice": {
+    "home_remedies": [
+      "Eat small, frequent meals throughout the day to support digestion and liver function.",
+      "Stay hydrated by drinking water, herbal teas, or electrolyte-rich fluids.",
+      "Rest and avoid strenuous activities until symptoms improve."
+    ],
+    "ayurvedic_remedies": [
+      "Take Kutki (Picrorhiza kurroa) for its liver-protective and detoxifying effects.",
+      "Use Bhumyamalaki (Phyllanthus niruri) for its liver-healing and antiviral properties.",
+      "Drink Radish leaf juice or Aloe Vera juice for their detoxifying and gut-soothing benefits."
+    ]
+  },
+  "joint_pain": {
+    "home_remedies": [
+      "Apply cold or hot packs to the affected joint to reduce pain and inflammation.",
+      "Engage in low-impact exercises such as swimming or yoga to improve joint flexibility.",
+      "Maintain a healthy weight to reduce pressure on the joints."
+    ],
+    "ayurvedic_remedies": [
+      "Apply Mahanarayan oil or Ksheerabala oil to the affected area for their warming and soothing effects.",
+      "Take Shallaki (Boswellia serrata) for its anti-inflammatory and joint-supporting effects.",
+      "Use Guggulu (Commiphora wightii) for its joint-healing and anti-arthritic properties."
+    ]
+  },
+  "kidney_stones": {
+    "home_remedies": [
+      "Stay hydrated by drinking plenty of water throughout the day.",
+      "Eat a balanced diet low in sodium and oxalate-rich foods such as spinach, chocolate, and nuts.",
+      "Avoid excessive intake of vitamin C supplements and high-dose calcium."
+    ],
+    "ayurvedic_remedies": [
+      "Take Varuna (Crataeva nurvala) for its diuretic and kidney-supportive properties.",
+      "Use Gokshura (Tribulus terrestris) for its urinary and kidney health benefits.",
+      "Drink Radish leaf juice or Aloe Vera juice for their detoxifying and kidney-soothing effects."
+    ]
+  },
+  "laryngitis": {
+    "home_remedies": [
+      "Rest your voice and avoid speaking loudly or whispering, which can strain the vocal cords.",
+      "Stay hydrated by drinking warm water, herbal teas, or broths to soothe the throat.",
+      "Use a humidifier to maintain moisture in the air and prevent throat dryness."
+    ],
+    "ayurvedic_remedies": [
+      "Gargle with warm salt water or Licorice (Glycyrrhiza glabra) tea for their throat-soothing effects.",
+      "Take Trikatu (a blend of ginger, black pepper, and long pepper) for its warming and anti-inflammatory properties.",
+      "Drink Tulsi (Holy Basil) tea for its immune-boosting and throat-soothing benefits."
+    ]
+  },
+  "liver_disease": {
+    "home_remedies": [
+      "Eat a balanced diet low in sodium, sugar, and unhealthy fats to support liver health.",
+      "Avoid alcohol and quit smoking to prevent further damage to the liver.",
+      "Get regular exercise to maintain a healthy weight and reduce fatty deposits in the liver."
+    ],
+    "ayurvedic_remedies": [
+      "Take Bhumyamalaki (Phyllanthus niruri) for its liver-protective and detoxifying effects.",
+      "Use Kutki (Picrorhiza kurroa) for its hepatoprotective and anti-inflammatory properties.",
+      "Drink Aloe Vera juice or Radish leaf juice for their detoxifying and gut-soothing benefits."
+    ]
+  },
+  "low_back_pain": {
+    "home_remedies": [
+      "Apply cold or hot packs to the affected area to reduce pain and inflammation.",
+      "Practice gentle stretching exercises and yoga poses to improve flexibility and strength.",
+      "Maintain good posture and avoid prolonged sitting or standing."
+    ],
+    "ayurvedic_remedies": [
+      "Apply Mahanarayan oil or Ksheerabala oil to the affected area for their warming and soothing effects.",
+      "Take Ashwagandha (Withania somnifera) for its anti-inflammatory and pain-relieving properties.",
+      "Use Guggulu (Commiphora wightii) for its joint-supporting and anti-arthritic benefits."
+    ]
+  },
+  "low_blood_pressure_hypotension": {
+    "home_remedies": [
+      "Increase salt intake slightly to raise blood pressure, if not contraindicated by other health conditions.",
+      "Drink plenty of fluids to maintain hydration and improve blood volume.",
+      "Eat small, frequent meals to prevent sudden drops in blood pressure."
+    ],
+    "ayurvedic_remedies": [
+      "Use Licorice (Glycyrrhiza glabra) for its blood pressure-raising and adrenal-supporting effects.",
+      "Take Ashwagandha (Withania somnifera) for its adaptogenic properties and stress-relieving effects.",
+      "Drink Hibiscus tea for its vasodilatory and cardiovascular-supporting benefits."
+    ]
+  },
+  "malaria": {
+    "home_remedies": [
+      "Take antimalarial medications as prescribed by your healthcare provider.",
+      "Use mosquito nets, insect repellents, and protective clothing to prevent mosquito bites.",
+      "Get plenty of rest and stay hydrated to support recovery."
+    ],
+    "ayurvedic_remedies": [
+      "Take Neem for its antimalarial and immune-boosting effects.",
+      "Use Papaya leaf extract for its anti-malarial properties and ability to boost platelet count.",
+      "Drink Giloy (Tinospora cordifolia) decoction for its antipyretic and immune-supporting benefits."
+    ]
+  },
+  "mastitis": {
+    "home_remedies": [
+      "Apply warm compresses or take warm showers to promote milk flow and relieve pain.",
+      "Ensure proper breastfeeding technique and adequate milk drainage during nursing sessions.",
+      "Rest and stay hydrated to support recovery and boost the immune system."
+    ],
+    "ayurvedic_remedies": [
+      "Use Guduchi (Tinospora cordifolia) for its immune-boosting and anti-inflammatory effects.",
+      "Take Turmeric (Curcuma longa) milk or tea for its antibacterial and anti-inflammatory properties.",
+      "Apply Neem oil or coconut oil to the affected area for their antimicrobial and skin-soothing properties."
+    ]
+  },
+  "menopause": {
+    "home_remedies": [
+      "Stay physically active with exercises such as walking, yoga, or swimming.",
+      "Practice relaxation techniques such as deep breathing or meditation to manage stress.",
+      "Eat a balanced diet rich in fruits, vegetables, and calcium to support bone health."
+    ],
+    "ayurvedic_remedies": [
+      "Take Shatavari (Asparagus racemosus) for hormonal balance and reproductive health.",
+      "Use Ashoka (Saraca asoca) for its uterine tonic and menstrual pain-relieving effects.",
+      "Drink ginger tea or warm water with ginger for its anti-inflammatory and digestive benefits."
+    ]
+  },
+  "menstrual_cramps": {
+    "home_remedies": [
+      "Apply a heating pad or take a warm bath to relax muscles and relieve pain.",
+      "Engage in light physical activity or gentle yoga poses to reduce cramping.",
+      "Stay hydrated by drinking water, herbal teas, or electrolyte-rich fluids."
+    ],
+    "ayurvedic_remedies": [
+      "Take Ashoka (Saraca asoca) for its uterine tonic and menstrual pain-relieving effects.",
+      "Use Shatavari (Asparagus racemosus) for hormonal balance and reproductive health.",
+      "Drink Ginger (Zingiber officinale) tea for its anti-inflammatory and pain-relieving benefits."
+    ]
+  },
+  "migraine": {
+    "home_remedies": [
+      "Rest in a quiet, dark room to reduce sensory stimuli and alleviate pain.",
+      "Apply a cold or warm compress to the forehead or neck to relieve pain.",
+      "Stay hydrated by drinking water or herbal teas to prevent dehydration."
+    ],
+    "ayurvedic_remedies": [
+      "Take Brahmi (Gotu Kola) for its stress-relieving and tension-easing effects.",
+      "Use Ashwagandha (Withania somnifera) for its calming and headache-relieving properties.",
+      "Drink Ginger (Zingiber officinale) tea for its anti-inflammatory and pain-relieving benefits."
+    ]
+  },
+  "motion_sickness": {
+    "home_remedies": [
+      "Focus on a fixed point outside the moving vehicle or vessel to help maintain balance.",
+      "Avoid reading or using electronic devices that can exacerbate motion sickness symptoms.",
+      "Practice deep breathing or acupressure techniques to alleviate nausea and discomfort."
+    ],
+    "ayurvedic_remedies": [
+      "Use Ginger (Zingiber officinale) for its digestive-calming and nausea-relieving effects.",
+      "Take Ashwagandha (Withania somnifera) for its adaptogenic and calming properties.",
+      "Drink Peppermint tea for its soothing and stomach-settling benefits."
+    ]
+  },
+  "mouth_ulcers": {
+    "home_remedies": [
+      "Rinse your mouth with salt water or baking soda solution to reduce inflammation and promote healing.",
+      "Avoid spicy, acidic, or salty foods that can irritate mouth ulcers.",
+      "Use over-the-counter topical treatments or oral gels for pain relief."
+    ],
+    "ayurvedic_remedies": [
+      "Apply honey or coconut oil to the affected area for their antimicrobial and soothing effects.",
+      "Use Licorice (Glycyrrhiza glabra) tea or mouthwash for its anti-inflammatory and healing properties.",
+      "Drink Aloe Vera juice or take Triphala for their detoxifying and immune-supporting benefits."
+    ]
+  },
+  "nausea_and_vomiting": {
+    "home_remedies": [
+      "Stay hydrated by sipping clear fluids like water, ginger ale, or herbal teas.",
+      "Eat small, frequent meals that are low in fat and easy to digest.",
+      "Avoid strong odors, spicy foods, and other triggers that may worsen nausea."
+    ],
+    "ayurvedic_remedies": [
+      "Use Ginger (Zingiber officinale) tea or capsules for its digestive-calming and nausea-relieving effects.",
+      "Take Trikatu (a blend of ginger, black pepper, and long pepper) for its digestive and carminative properties.",
+      "Drink Cumin (Cuminum cyminum) tea for its anti-nausea and stomach-soothing benefits."
+    ]
+  },
+  "nose_bleeds": {
+    "home_remedies": [
+      "Sit upright and lean forward slightly to prevent blood from flowing down the throat.",
+      "Pinch the soft part of your nose and hold it for 10 to 15 minutes to stop the bleeding.",
+      "Apply a cold compress or ice pack to the bridge of the nose to constrict blood vessels."
+    ],
+    "ayurvedic_remedies": [
+      "Apply coconut oil or ghee to the inner lining of the nostrils to moisturize and protect against dryness.",
+      "Use Brahmi (Gotu Kola) internally for its cooling and blood vessel-strengthening effects.",
+      "Drink Aloe Vera juice for its hydrating and anti-inflammatory benefits."
+    ]
+  },
+  "osteoarthritis": {
+    "home_remedies": [
+      "Apply hot or cold packs to the affected joints to reduce pain and inflammation.",
+      "Engage in low-impact exercises such as swimming or tai chi to improve joint mobility.",
+      "Maintain a healthy weight to reduce stress on weight-bearing joints."
+    ],
+    "ayurvedic_remedies": [
+      "Apply Mahanarayan oil or Ksheerabala oil to the affected area for their warming and soothing effects.",
+      "Take Guggulu (Commiphora wightii) for its anti-inflammatory and joint-supporting properties.",
+      "Use Shallaki (Boswellia serrata) for its analgesic and pain-relieving effects."
+    ]
+  },
+  "piles": {
+    "home_remedies": [
+      "Apply ice packs or cold compresses to reduce swelling and pain.",
+      "Soak in warm water baths (sitz baths) to promote healing and relieve discomfort.",
+      "Avoid straining during bowel movements and maintain good hygiene."
+    ],
+    "ayurvedic_remedies": [
+      "Use Triphala for its detoxifying and digestive-supporting benefits.",
+      "Apply Aloe Vera gel or coconut oil to soothe and protect the affected area.",
+      "Drink Buttermilk (Takra) for its digestive and gut-soothing properties."
+    ]
+  },
+  "pneumonia": {
+    "home_remedies": [
+      "Get plenty of rest to support the immune system in fighting the infection.",
+      "Stay hydrated by drinking water, herbal teas, or electrolyte-rich fluids.",
+      "Use a humidifier to keep the air moist and ease breathing."
+    ],
+    "ayurvedic_remedies": [
+      "Take Tulsi (Holy Basil) for its immune-boosting and antimicrobial effects.",
+      "Use Turmeric (Curcuma longa) for its anti-inflammatory and lung-supporting properties.",
+      "Drink warm milk with turmeric or ginger for its soothing and respiratory-benefiting effects."
+    ]
+  },
+  "poison_ivy_poison_oak_poison_sumac": {
+    "home_remedies": [
+      "Wash the affected area thoroughly with soap and water to remove plant oils.",
+      "Apply cold compresses or ice packs to reduce itching and inflammation.",
+      "Use over-the-counter anti-itch creams or calamine lotion for relief."
+    ],
+    "ayurvedic_remedies": [
+      "Apply Aloe Vera gel or Neem oil to the affected skin for their anti-inflammatory and soothing effects.",
+      "Use Turmeric (Curcuma longa) paste or powder for its healing and antipruritic properties.",
+      "Drink Basil (Tulsi) tea for its antihistamine and immune-supporting benefits."
+    ]
+  },
+  "premenstrual_syndrome_pms": {
+    "home_remedies": [
+      "Eat a balanced diet rich in fruits, vegetables, and whole grains.",
+      "Engage in regular physical activity such as walking, swimming, or yoga.",
+      "Practice stress-reducing techniques such as meditation or deep breathing."
+    ],
+    "ayurvedic_remedies": [
+      "Take Ashoka (Saraca asoca) for its hormonal-balancing and menstrual pain-relieving effects.",
+      "Use Shatavari (Asparagus racemosus) for its adaptogenic and reproductive health benefits.",
+      "Drink Ginger (Zingiber officinale) tea for its anti-inflammatory and pain-relieving properties."
+    ]
+  },
+  "prostate_problems": {
+    "home_remedies": [
+      "Urinate when you first feel the need to avoid urinary retention.",
+      "Limit caffeine and alcohol, which can irritate the bladder.",
+      "Stay hydrated by drinking plenty of water throughout the day."
+    ],
+    "ayurvedic_remedies": [
+      "Take Gokshura (Tribulus terrestris) for its diuretic and prostate-supporting properties.",
+      "Use Varuna (Crataeva nurvala) for its urinary and kidney health benefits.",
+      "Drink Turmeric (Curcuma longa) milk or tea for its anti-inflammatory and immune-supporting effects."
+    ]
+  },
+  "psoriasis": {
+    "home_remedies": [
+      "Moisturize your skin daily with fragrance-free lotions or emollients to reduce dryness.",
+      "Use a humidifier to keep the air moist and prevent skin irritation.",
+      "Practice stress management techniques such as yoga or meditation."
+    ],
+    "ayurvedic_remedies": [
+      "Apply Neem oil or Aloe Vera gel to the affected skin for their anti-inflammatory and healing effects.",
+      "Take Triphala internally for its detoxifying and immune-supporting benefits.",
+      "Use Turmeric (Curcuma longa) paste or powder for its skin-soothing and antipruritic properties."
+    ]
+  },
+  "ringworm": {
+    "home_remedies": [
+      "Keep the affected area clean and dry to prevent the spread of infection.",
+      "Apply over-the-counter antifungal creams or powders to the affected skin.",
+      "Avoid sharing personal items such as towels or clothing that may spread the infection."
+    ],
+    "ayurvedic_remedies": [
+      "Apply Neem oil or Turmeric (Curcuma longa) paste to the affected area for their antifungal and anti-inflammatory properties.",
+      "Use Licorice (Glycyrrhiza glabra) internally or as a paste for its antifungal and soothing effects.",
+      "Drink Basil (Tulsi) tea for its immune-boosting and antifungal benefits."
+    ]
+  },
+  "rosacea": {
+    "home_remedies": [
+      "Use a gentle cleanser and moisturizer suitable for sensitive skin to avoid irritation.",
+      "Apply sunscreen with SPF 30 or higher daily to protect your skin from UV rays.",
+      "Avoid triggers such as spicy foods, alcohol, and extreme temperatures that can worsen symptoms."
+    ],
+    "ayurvedic_remedies": [
+      "Apply Neem oil or Aloe Vera gel to the affected skin for their anti-inflammatory and healing effects.",
+      "Use Turmeric (Curcuma longa) paste or powder for its skin-soothing and antimicrobial properties.",
+      "Drink Tulsi (Holy Basil) tea for its immune-modulating and anti-inflammatory benefits."
+    ]
+  },
+  "sinus_infection": {
+    "home_remedies": [
+      "Use a humidifier or steam inhalation to moisten nasal passages and reduce congestion.",
+      "Flush nasal passages with a saline solution or neti pot to clear mucus and allergens.",
+      "Stay hydrated by drinking plenty of water, herbal teas, or clear broths."
+    ],
+    "ayurvedic_remedies": [
+      "Take Trikatu (a blend of ginger, black pepper, and long pepper) for its warming and decongestant effects.",
+      "Use Tulsi (Holy Basil) for its anti-inflammatory and antimicrobial properties.",
+      "Drink Turmeric (Curcuma longa) milk or tea for its immune-supporting and respiratory-benefiting effects."
+    ]
+  },
+  "sprain": {
+    "home_remedies": [
+      "Rest the affected area and avoid putting weight or strain on it.",
+      "Apply ice packs or cold compresses to reduce swelling and pain.",
+      "Elevate the injured limb above heart level to minimize swelling."
+    ],
+    "ayurvedic_remedies": [
+      "Apply Mahanarayan oil or Ksheerabala oil to the affected area for their anti-inflammatory and pain-relieving effects.",
+      "Take Ashwagandha (Withania somnifera) internally for its adaptogenic and healing properties.",
+      "Use Guggulu (Commiphora wightii) for its anti-inflammatory and joint-supporting benefits."
+    ]
+  },
+  "stomach_acidity_heartburn": {
+    "home_remedies": [
+      "Eat smaller meals more frequently throughout the day.",
+      "Avoid trigger foods such as spicy, acidic, or fatty foods.",
+      "Stay upright after eating and avoid lying down immediately to reduce acid reflux."
+    ],
+    "ayurvedic_remedies": [
+      "Take Licorice (Glycyrrhiza glabra) for its digestive-calming and mucosal-protecting effects.",
+      "Use Amla (Indian Gooseberry) for its digestive and cooling properties.",
+      "Drink Coriander (Coriandrum sativum) tea for its anti-acid and stomach-soothing benefits."
+    ]
+  },
+  "strep_throat": {
+    "home_remedies": [
+      "Get plenty of rest to support the immune system in fighting the infection.",
+      "Stay hydrated by drinking warm water, herbal teas, or broths to soothe the throat.",
+      "Use a humidifier to maintain moisture in the air and prevent throat dryness."
+    ],
+    "ayurvedic_remedies": [
+      "Gargle with warm salt water or Licorice (Glycyrrhiza glabra) tea for their throat-soothing effects.",
+      "Take Trikatu (a blend of ginger, black pepper, and long pepper) for its warming and anti-inflammatory properties.",
+      "Drink Tulsi (Holy Basil) tea for its immune-boosting and throat-soothing benefits."
+    ]
+  },
+  "stye": {
+    "home_remedies": [
+      "Apply a warm compress to the affected eyelid to reduce swelling and promote drainage.",
+      "Keep the eye clean and avoid touching or rubbing it to prevent further irritation.",
+      "Avoid wearing contact lenses or eye makeup until the stye has healed."
+    ],
+    "ayurvedic_remedies": [
+      "Apply Triphala eye wash or Aloe Vera gel to the affected eyelid for their anti-inflammatory and soothing effects.",
+      "Use Neem oil or honey eye drops for their antimicrobial and healing properties.",
+      "Drink Licorice (Glycyrrhiza glabra) tea for its immune-boosting and eye-soothing benefits."
+    ]
+  },
+  "sunburn": {
+    "home_remedies": [
+      "Apply cool compresses or take cool baths to soothe burned skin.",
+      "Use aloe vera gel or lotion to hydrate and promote healing of sunburned skin.",
+      "Drink plenty of water to stay hydrated and support skin recovery."
+    ],
+    "ayurvedic_remedies": [
+      "Apply coconut oil or sandalwood paste to the affected skin for their cooling and anti-inflammatory effects.",
+      "Use Turmeric (Curcuma longa) paste or powder for its healing and skin-soothing properties.",
+      "Drink Coriander (Coriandrum sativum) tea for its anti-inflammatory and skin-rejuvenating benefits."
+    ]
+  },
+  "tinnitus_ringing_in_ears": {
+    "home_remedies": [
+      "Manage stress through relaxation techniques such as yoga or meditation.",
+      "Avoid exposure to loud noises and use ear protection when necessary.",
+      "Practice good sleep hygiene to improve overall well-being and reduce tinnitus symptoms."
+    ],
+    "ayurvedic_remedies": [
+      "Take Gingko Biloba for its circulation-boosting and tinnitus-reducing effects.",
+      "Use Ashwagandha (Withania somnifera) for its adaptogenic properties and stress-relieving effects.",
+      "Drink Ginger (Zingiber officinale) tea for its anti-inflammatory and soothing benefits."
+    ]
+  },
+  "tonsillitis": {
+    "home_remedies": [
+      "Get plenty of rest to support the immune system in fighting the infection.",
+      "Stay hydrated by drinking warm water, herbal teas, or broths to soothe the throat.",
+      "Use a humidifier to maintain moisture in the air and prevent throat dryness."
+    ],
+    "ayurvedic_remedies": [
+      "Gargle with warm salt water or Licorice (Glycyrrhiza glabra) tea for their throat-soothing effects.",
+      "Take Trikatu (a blend of ginger, black pepper, and long pepper) for its warming and anti-inflammatory properties.",
+      "Drink Tulsi (Holy Basil) tea for its immune-boosting and throat-soothing benefits."
+    ]
+  },
+  "toothache": {
+    "home_remedies": [
+      "Rinse your mouth with warm salt water to reduce inflammation and relieve pain.",
+      "Apply a cold compress to the cheek or jaw area to numb the pain temporarily.",
+      "Use over-the-counter pain relievers such as ibuprofen or acetaminophen."
+    ],
+    "ayurvedic_remedies": [
+      "Apply clove oil or crushed garlic to the affected tooth for their analgesic and antimicrobial effects.",
+      "Use Licorice (Glycyrrhiza glabra) tea or mouthwash for its anti-inflammatory and pain-relieving properties.",
+      "Drink Aloe Vera juice or Triphala decoction for their detoxifying and immune-supporting benefits."
+    ]
+  },
+  "urinary_tract_infection_uti": {
+    "home_remedies": [
+      "Stay hydrated by drinking plenty of water throughout the day.",
+      "Urinate frequently to flush out bacteria and prevent infection.",
+      "Practice good hygiene, including wiping from front to back after using the restroom."
+    ],
+    "ayurvedic_remedies": [
+      "Drink Aloe Vera juice or Cranberry juice for their urinary tract-soothing and infection-fighting properties.",
+      "Take Gokshura (Tribulus terrestris) for its diuretic and UTI-preventative effects.",
+      "Use Varuna (Crataeva nurvala) for its antibacterial and kidney-supportive properties."
+    ]
+  },
+  "varicose_veins": {
+    "home_remedies": [
+      "Elevate your legs above heart level to improve circulation and reduce swelling.",
+      "Avoid sitting or standing for prolonged periods to prevent blood pooling in the veins.",
+      "Wear compression stockings to support vein function and reduce discomfort."
+    ],
+    "ayurvedic_remedies": [
+      "Apply Gotu Kola (Centella asiatica) ointment or gel to the affected area for its circulation-boosting and vein-strengthening effects.",
+      "Take Triphala internally for its detoxifying and vascular-supporting benefits.",
+      "Use Turmeric (Curcuma longa) paste or powder for its anti-inflammatory and venous-supporting properties."
+    ]
+  },
+  "vertigo": {
+    "home_remedies": [
+      "Stay hydrated by drinking water or herbal teas to maintain fluid balance.",
+      "Avoid sudden movements or changes in head position that can trigger vertigo.",
+      "Practice relaxation techniques such as deep breathing or meditation."
+    ],
+    "ayurvedic_remedies": [
+      "Take Ashwagandha (Withania somnifera) for its adaptogenic properties and stress-relieving effects.",
+      "Use Ginger (Zingiber officinale) for its digestive-calming and nausea-relieving effects.",
+      "Drink Basil (Tulsi) tea for its calming and cognitive-supporting benefits."
+    ]
+  },
+  "weight_loss": {
+    "home_remedies": [
+      "Eat a balanced diet rich in fruits, vegetables, lean proteins, and whole grains.",
+      "Engage in regular physical activity such as walking, jogging, or cycling.",
+      "Practice portion control and mindful eating to avoid overeating and support weight management."
+    ],
+    "ayurvedic_remedies": [
+      "Take Triphala for its detoxifying and digestive-supporting benefits.",
+      "Use Guggulu (Commiphora wightii) for its metabolism-boosting and fat-reducing effects.",
+      "Drink Ginger (Zingiber officinale) tea for its digestive-calming and weight-loss-supporting properties."
+    ]
+  }
+}

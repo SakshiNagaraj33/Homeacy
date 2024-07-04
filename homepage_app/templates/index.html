@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOMEACY</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>HOMEACY</h1>
+        </header>
+        <div class="main-content">
+            <div class="background-image"></div> <!-- Background image div -->
+            <div class="sidebar">
+                <div class="feature-box">
+                    <a href="http://127.0.0.1:5001/" class="feature-button"><b>CHATBOT</b></a>
+                </div>
+                <div class="feature-box">
+                    <a href="http://127.0.0.1:5002/" class="feature-button"><b>IMAGE ANALYSIS</b></a>
+                </div>
+                <div class="feature-box">
+                    <a href="#search" class="feature-button"><b>SEARCH</b></a>
+                </div>
+                <div class="feature-box">
+                    <a href="#symptom" class="feature-button"><b>SYMPTOM</b></a>
+                </div>
+            </div>
+            <section id="search" class="content">
+                <h2>SEARCH</h2>
+                <form action="/" method="GET">
+                    <input type="text" name="query" placeholder="Search..." required>
+                    <button type="submit">SEARCH</button>
+                </form>
+                {% if query %}
+                    <h2>Search Results for "{{ query }}"</h2>
+                    {% if remedies %}
+                        <h3>Home Remedies:</h3>
+                        <ul>
+                            {% for remedy in remedies.home_remedies %}
+                                <li>{{ remedy }}</li>
+                            {% endfor %}
+                        </ul>
+                        <h3>Ayurvedic Remedies:</h3>
+                        <ul>
+                            {% for remedy in remedies.ayurvedic_remedies %}
+                                <li>{{ remedy }}</li>
+                            {% endfor %}
+                        </ul>
+                    {% else %}
+                        <p>No remedies found for "{{ query }}".</p>
+                    {% endif %}
+                {% endif %}
+                {% if image_url %}
+                <img src="{{ image_url }}" alt="Disease Image">
+                {% endif %}
+            </section>
+        </div>
+    </div>
+</body>
+</html>
